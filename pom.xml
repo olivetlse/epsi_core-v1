@@ -5,7 +5,7 @@
 	<groupId>fr.epsi.core</groupId>
 	<artifactId>epsi-core</artifactId>
 	<version>1.0.0</version>
-
+</project>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<maven.compiler.source>1.8</maven.compiler.source>
@@ -29,4 +29,4 @@
 </build>
 		
 	</dependencies>
-</project>
+
